@@ -1,0 +1,208 @@
+Uri: https://watson-vcard.netlify.app/css/blue-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\blue-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/green-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\green-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/pink-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\pink-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/plugins.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\plugins.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/purple-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\purple-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/red-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\red-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/style-dark.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\style-dark.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/style-demo.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\style-demo.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/css/yellow-color.css
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\css\yellow-color.css
+Content Type: text/css
+
+Uri: https://watson-vcard.netlify.app/img/background/home-bg.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\background\home-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-1.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-2.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-3.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-4.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-5.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-6.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-7.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-8.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/blog/img-9.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\blog\img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-01.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-01.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-02.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-02.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-03.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-03.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-04.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-04.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-05.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-05.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-06.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-06.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-07.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-07.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-08.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-08.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/clients/client-09.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\clients\client-09.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/favicon.ico
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-1.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-10.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-11.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-11.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-2.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-3.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-4.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-5.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-6.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-7.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-8.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/portfolio/img-9.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\portfolio\img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/profile-img.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\profile-img.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/signature-white.png
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\signature-white.png
+Content Type: image/png
+
+Uri: https://watson-vcard.netlify.app/img/testimonials/author-1.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\testimonials\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/testimonials/author-2.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\testimonials\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/img/testimonials/author-3.jpg
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\img\testimonials\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://watson-vcard.netlify.app/index-dark
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\index-dark.html
+Content Type: text/html
+
+Uri: https://watson-vcard.netlify.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://watson-vcard.netlify.app/js/main-demo.js
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\js\main-demo.js
+Content Type: application/javascript
+
+Uri: https://watson-vcard.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://watson-vcard.netlify.app/js/modernizr.js
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://watson-vcard.netlify.app/js/plugins.min.js
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-122650090-3
+File Name: C:\Downloaded Web Sites\watson-vcard.netlify.app\gtag\js
+Content Type: application/javascript
+
